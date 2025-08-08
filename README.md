@@ -11,5 +11,6 @@
 
 # Tech Stack
 
-**Languages:** Python
-**Editor:** VS Code
+- **Languages:** Python
+
+- **Editor:** VS Code
