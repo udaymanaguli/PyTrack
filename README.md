@@ -1,13 +1,12 @@
-** PyTrack
+## PyTrack
 
-* A simple Python-based task tracker to help you manage and organize tasks efficiently from the command line.
+# A simple Python-based task tracker to help you manage and organize tasks efficiently from the command line.
 
-** Features
+# Features
 
-Add, update, and delete tasks
+1. Add, update, and delete tasks
+2. Mark tasks as complete or pending
+3. View all tasks in a clean format
+4. Lightweight and easy to use
 
-Mark tasks as complete or pending
 
-View all tasks in a clean format
-
-Lightweight and easy to use
