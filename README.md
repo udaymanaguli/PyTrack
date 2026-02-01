@@ -1,16 +1,15 @@
-## PyTrack
+# MiniGit
 
-# A Python-based task tracker to help you manage and organize tasks efficiently from the command line.
+A Python-based minimal version control system inspired by Git, allowing basic repository management from the command line.
 
-# Features
+## Features
+- Initialize a repository (`init`) with `.minigit` folder structure
+- Stage files for commit (`add <filename>`)
+- Commit staged files with a message (`commit <message>`)
+- View commit history (`log`)
+- Check repository status (`status`)
+- Simple command-line interface, no external dependencies
 
-1. Add, update, and delete tasks
-2. Mark tasks as complete or pending
-3. View all tasks in a clean format
-4. Lightweight and easy to use
-
-# Tech Stack
-
-- **Languages:** Python
-
-- **Editor:** VS Code
+## Tech Stack
+- Python 3.x
+- Standard Library: `os`, `shutil`, `sys`, `hashlib`, `json`, `datetime`, `uuid`
